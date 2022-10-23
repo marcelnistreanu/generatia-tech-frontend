@@ -1,0 +1,1 @@
+# generatia-tech-frontend
